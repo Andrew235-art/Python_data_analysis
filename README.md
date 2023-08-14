@@ -18,11 +18,11 @@ Once you have those installed, you can clone the repository and run the followin
 
 To use one of the projects in this repository, you can follow these steps:
 
-1. Open the project's `main.py` file in a text editor.
+1. Open the project's `.py` file in a text editor.
 2. Edit the `DATA_PATH` variable to point to the location of the dataset file.
-3. Run the `main.py` file.
+3. Run the `.py` file.
 
-The `main.py` file will load the dataset, perform some EDA, and print the results to the console.
+The `.py` files will load the dataset, perform some EDA, and print the results to the console.
 
 ## Projects
 
