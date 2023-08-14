@@ -1,5 +1,5 @@
 # data_repo_01
-Sample data manipulation projects using SQL queries, python pandas, and other Python modules/libraries. 
+Sample data manipulation projects using SQL queries, Python Pandas, and other Python modules/libraries
 
 # Python3 EDA projects
 
@@ -36,4 +36,4 @@ If you would like to contribute to this repository, please feel free to fork the
 
 ## License
 
-This project is licensed under the GNU License.
+This project is licensed under the GNU General Public License.
