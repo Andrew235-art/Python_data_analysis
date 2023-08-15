@@ -1,5 +1,5 @@
 # data_repo_01
-Sample data manipulation projects using SQL queries, Python Pandas, and other Python modules/libraries
+Sample data manipulation projects using Python Pandas, and other Python modules/libraries
 
 # Python3 EDA projects
 
