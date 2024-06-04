@@ -6,8 +6,8 @@ Feel free to explore the repository and learn from the projects provided.
 * **Objective:** Analyze datasets to understand their main characteristics, detect patterns, and uncover relationships.
   
 * **Tools and Libraries:** 
-* Pandas and NumPy for data manipulation and numerical calculations.
-* Matplotlib and Seaborn for data visualizations.
+  * Pandas and NumPy for data manipulation and numerical calculations.
+  * Matplotlib and Seaborn for data visualizations.
 
 
 
