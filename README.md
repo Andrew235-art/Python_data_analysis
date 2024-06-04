@@ -1,6 +1,9 @@
-# Python3 EDA projects
+# Python EDA projects
+
+## Overview
 
 This repository includes Jupyter Notebook files demonstrating data manipulation techniques using pandas and other Python libraries. You’ll find examples demonstrating data cleaning, exploration, visualization, and more on how to derive different insights from sample datasets.
+
 Feel free to explore the repository and learn from the projects provided. 
 
 * **Objective:** Analyze datasets to understand their main characteristics, detect patterns, and uncover relationships.
@@ -8,17 +11,6 @@ Feel free to explore the repository and learn from the projects provided.
 * **Tools and Libraries:** 
   * Pandas and NumPy for data manipulation and numerical calculations.
   * Matplotlib and Seaborn for data visualizations.
-
-
-
-## Getting Started
-
-To get started with this repository, you will need to have the following installed:
-
-* Python 3
-* pandas
-
-Once you have those installed, you can clone the repository and run the following command to install the dependencies:
 
 ## Usage
 
@@ -32,9 +24,31 @@ The `.py` files will load the dataset, perform some EDA, and print the results t
 
 ## Projects
 
-This repository contains the following projects:
+**Projects Involved**:
 
-* **[Project_1_Sample_store_data, Project_2_python_ictionaries, Project_3_fruits_data, Project_4_employees_data ]:**  All these projects use EDA to explore different datasets inside the repository. These datasets contain various numbers of rows and columns, and different data types altogether.
+* **[Project_1_Sample_store_data, Project_2_python_dictionaries, Project_3_fruits_data, Project_4_employees_data ]:**
+  
+    - **Objective**: Analyze datasets to understand their main characteristics, detect patterns, and uncover relationships.
+      
+    - **Tools and Libraries**:
+        - Pandas and NumPy for data manipulation and numerical calculations.
+        - Matplotlib and Seaborn for data visualizations.
+          
+    - **Steps**:
+      
+        * Import Python Libraries:
+           Import necessary libraries for data analysis and visualization.
+        * Read Dataset:
+           Load the dataset using Pandas.
+        * Data Pre-processing:
+           Clean and prepare raw data (e.g., handle missing data, encode variables).
+        * Feature Engineering:
+           Manipulate data (e.g., add/remove features, handle categorical variables).
+        * Exploratory Data Analysis:
+          Summarize data features, visualize patterns, and derive insights.
+        * Hypothesis Formulation:
+          Use EDA insights to formulate hypotheses for further analysis.
+          
 
 ## Contributing
 
