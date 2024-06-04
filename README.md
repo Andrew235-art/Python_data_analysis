@@ -10,7 +10,7 @@ Feel free to explore the repository and learn from the projects provided.
   
 * **Tools and Libraries:** 
   * Pandas and NumPy for data manipulation and numerical calculations.
-  * Matplotlib and Seaborn for data visualizations.
+  * Matplotlib for data visualizations.
 
 ## Usage
 
@@ -32,24 +32,27 @@ The `.py` files will load the dataset, perform some EDA, and print the results t
       
     - **Tools and Libraries**:
         - Pandas and NumPy for data manipulation and numerical calculations.
-        - Matplotlib and Seaborn for data visualizations.
+        - Matplotlib for data visualizations.
           
-    - **Steps**:
+    - **Steps Taken**:
       
         * Import Python Libraries:
            Import necessary libraries for data analysis and visualization.
         * Read Dataset:
-           Load the dataset using Pandas.
-        * Data Pre-processing:
-           Clean and prepare raw data (e.g., handle missing data, encode variables).
-        * Feature Engineering:
+           Create and Load the dataset using the imported libraries.
+        * Data Exploration:
+           Explore variations in different  
+        * Data Cleaning:
+           Clean and prepare raw data (e.g., handle missing data and outliers, encode variables).
+        * More Data Wrangling/Manipulation:
            Manipulate data (e.g., add/remove features, handle categorical variables).
         * Exploratory Data Analysis:
-          Summarize data features, visualize patterns, and derive insights.
-        * Hypothesis Formulation:
-          Use EDA insights to formulate hypotheses for further analysis.
-          
-
+            Summarize data features, visualize patterns, and derive insights.
+        * Visualization:
+            Create dynamic plots and charts to visualize trends and patterns within sample datasets.
+        * Insights:
+            Provide valuable insights. 
+         
 ## Contributing
 
 If you would like to contribute to this repository, please feel free to fork the repository and submit a pull request.
