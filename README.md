@@ -1,9 +1,15 @@
-# data_repo_01
-Sample data manipulation projects using Python Pandas, and other Python modules/libraries
-
 # Python3 EDA projects
 
-This repository contains a collection of Python3 projects that use exploratory data analysis (EDA) techniques to explore and understand data. These projects mainly use the Python Pandas library to perform EDA on a variety of datasets.
+This repository includes Jupyter Notebook files demonstrating data manipulation techniques using pandas and other Python libraries. You’ll find examples demonstrating data cleaning, exploration, visualization, and more on how to derive different insights from sample datasets.
+Feel free to explore the repository and learn from the projects provided. 
+
+* **Objective:** Analyze datasets to understand their main characteristics, detect patterns, and uncover relationships.
+  
+* **Tools and Libraries:** 
+* Pandas and NumPy for data manipulation and numerical calculations.
+* Matplotlib and Seaborn for data visualizations.
+
+
 
 ## Getting Started
 
